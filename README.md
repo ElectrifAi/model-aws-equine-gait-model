@@ -8,3 +8,4 @@ It is important to understand equine locomotion and gait to help determine numer
 
 SKU: FGAIT-PS-AWF-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-5nxkmjath6dgi
